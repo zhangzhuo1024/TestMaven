@@ -1,4 +1,3 @@
 include ':AndroidSoUtils'
-include ':AndroidUtils'
 include ':app'
 rootProject.name = "TestMaven"
