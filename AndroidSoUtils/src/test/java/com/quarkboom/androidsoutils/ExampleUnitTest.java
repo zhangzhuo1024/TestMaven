@@ -1,4 +1,4 @@
-package com.example.customcontrollib;
+package com.quarkboom.androidsoutils;
 
 import org.junit.Test;
 
